@@ -91,10 +91,7 @@ The main script contains several sections, each performing specific tasks:
     - K-fold cross-validation for regression models.
     - Lasso and Ridge regularization.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+ 
 ## Contact
 
 For any questions or issues, please contact Mo Dehestani at smdehestani@gmail.com
